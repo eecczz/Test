@@ -1,0 +1,757 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'ko' Physical Memory: 16251 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/황선우/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49885
+Successfully changed project path to: C:/Users/황선우/New Unity Project
+C:/Users/황선우/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/황선우/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5256
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004639 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.003 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1232 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 59.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 5.995100 ms (FindLiveObjects: 0.580000 ms CreateObjectMapping: 0.265200 ms MarkObjects: 4.937700 ms  DeleteObjects: 0.208300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(d6acd476ee9a6f54e832417a07e9c999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d6acd476ee9a6f54e832417a07e9c999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f126da999976e3be4da758e2f73ad5') in 0.014576 seconds
+  Import took 0.018469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Simple Poeple
+  artifactKey: Guid(20bca3d2563b6e649946f31f6378ae61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple using Guid(20bca3d2563b6e649946f31f6378ae61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90bc2c2fd9d64e42c13bd913484b6cbd') in 0.005380 seconds
+  Import took 0.007533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/swords
+  artifactKey: Guid(43d49322ddd77594c9d438a6b1d78318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/swords using Guid(43d49322ddd77594c9d438a6b1d78318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c8d9f92a8e565c585bb1cd64c15803') in 0.003523 seconds
+  Import took 0.005167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006484 seconds.
+  path: Assets/Simple Poeple/Animation
+  artifactKey: Guid(628d6f1f21d6640caaa4bff497c839c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Animation using Guid(628d6f1f21d6640caaa4bff497c839c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fb6faf6a844ff86d1738b0a7e09685') in 0.003772 seconds
+  Import took 0.005505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.831947 seconds.
+  path: Assets/Simple Poeple/Prefabs
+  artifactKey: Guid(2bfd473cb780548758e91b67c740ba99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs using Guid(2bfd473cb780548758e91b67c740ba99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4b2e70fa789de71616350916304c48') in 0.004886 seconds
+  Import took 0.007107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.358675 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple
+  artifactKey: Guid(f836cad5e00254726936f219543d8b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple using Guid(f836cad5e00254726936f219543d8b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bcd0e7a32eba89645830904f317cfe') in 0.003635 seconds
+  Import took 0.005632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061250 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(691c4132907f24bfb8b5abda9e3fdc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Cap.prefab using Guid(691c4132907f24bfb8b5abda9e3fdc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9519c5c79dbd48a5cb1cf3f12026ea9') in 0.368856 seconds
+  Import took 0.370866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(c3ada9f4421404f19800b2e0a55f76c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Ponytail.prefab using Guid(c3ada9f4421404f19800b2e0a55f76c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed031276d3e0969a3add109038f4ec14') in 0.016974 seconds
+  Import took 0.018880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(3edcf57eec5c543bebaba5f7680f61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Hair.prefab using Guid(3edcf57eec5c543bebaba5f7680f61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a18e11c734eca1895f2144aadf1cc6') in 0.014696 seconds
+  Import took 0.016810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(fd5028f1803694030bd64f95db49b2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Shorthair.prefab using Guid(fd5028f1803694030bd64f95db49b2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308776ac349aadae2144554d1ece5c61') in 0.017641 seconds
+  Import took 0.019650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(7604eae008ae54c688cc8af1c1148d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Girl_Longhair.prefab using Guid(7604eae008ae54c688cc8af1c1148d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf3fc6b916cf20f4c9718192eebf09d') in 0.024302 seconds
+  Import took 0.026376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(13825d065987648b28f2fa905fbf9950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Purple/SimplePuppets_Boy_Knithat.prefab using Guid(13825d065987648b28f2fa905fbf9950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dd5fc0162ab3e37c21c03bec579fa5') in 0.013986 seconds
+  Import took 0.015966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.972278 seconds.
+  path: Assets/Simple Poeple/Prefabs/Green
+  artifactKey: Guid(b9b23e9ea2b5b49dbbb3c8312a17c0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Green using Guid(b9b23e9ea2b5b49dbbb3c8312a17c0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da08d9a0fe0b409dbae6748066907159') in 0.004198 seconds
+  Import took 0.006356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662972 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange
+  artifactKey: Guid(d965f566c04c24e3ebe1069213bc135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange using Guid(d965f566c04c24e3ebe1069213bc135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e12fd574a2e7bfd36b26cc608380f0') in 0.004334 seconds
+  Import took 0.006415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.650640 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(cc39de99d149049f6842dc07583d3cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Cap.prefab using Guid(cc39de99d149049f6842dc07583d3cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0e3b7651f09631a5512dcb803db9d0') in 0.012813 seconds
+  Import took 0.014740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(0621ec0e31e484a1fbcb9b9b251c6a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Hair.prefab using Guid(0621ec0e31e484a1fbcb9b9b251c6a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a75e8aad77dbdb15f0f8dbd6c762a7') in 0.012230 seconds
+  Import took 0.013964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(48814d8a73aac49f980b207cea1cd879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Longhair.prefab using Guid(48814d8a73aac49f980b207cea1cd879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e61def4ac741ef03b516163e1a43dc') in 0.012587 seconds
+  Import took 0.014341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(07b3e73054c5441c1aedd720e48b5668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Boy_Knithat.prefab using Guid(07b3e73054c5441c1aedd720e48b5668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d060c44a450d274efd1e1e352021c4') in 0.012516 seconds
+  Import took 0.014258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(a7935390c7dcc43f6829603cb7a31d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Ponytail.prefab using Guid(a7935390c7dcc43f6829603cb7a31d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ea747992c0320f9f05994105cdf2ea') in 0.013706 seconds
+  Import took 0.015589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(76da88e48541c4f098a8c8f012d10355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Orange/SimplePuppets_Girl_Shorthair.prefab using Guid(76da88e48541c4f098a8c8f012d10355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef29c33f1f6a702ae37b454ea77e7334') in 0.017448 seconds
+  Import took 0.019829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.960586 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black
+  artifactKey: Guid(8695e7a3c64064627a672c1505cc65ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black using Guid(8695e7a3c64064627a672c1505cc65ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df3b9dcaf9c9dba4f202da9f7255b47') in 0.003380 seconds
+  Import took 0.005559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074272 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(4d2a72e666b8b4811a37d80c736fd127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Cap.prefab using Guid(4d2a72e666b8b4811a37d80c736fd127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd499384f1890fbe761b054c367313cd0') in 0.012526 seconds
+  Import took 0.014544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(df7d35e54768d4d8c89623e81180aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Hair.prefab using Guid(df7d35e54768d4d8c89623e81180aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af4d2992110c805179a44c3f96f12ff') in 0.014564 seconds
+  Import took 0.016456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(4c1c4f338707042c7b864d19a5662268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Longhair.prefab using Guid(4c1c4f338707042c7b864d19a5662268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e199619def2edc937d79164396f8eaf5') in 0.016191 seconds
+  Import took 0.018194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(d0de6437944c74332858eda2c8aa332b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Ponytail.prefab using Guid(d0de6437944c74332858eda2c8aa332b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09da060cfb71a79ae0465a09c8f759f4') in 0.015183 seconds
+  Import took 0.017142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(1585b689c257a423cabe32bc1a00f9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Girl_Shorthair.prefab using Guid(1585b689c257a423cabe32bc1a00f9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531d2e123fe7098d8960fef201118491') in 0.014613 seconds
+  Import took 0.016569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(807827abcb9a740e5a4431d63cc3d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Black/SimplePuppets_Boy_Knithat.prefab using Guid(807827abcb9a740e5a4431d63cc3d1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826d3dcca01b46a6036ae23770ab7f2f') in 0.016866 seconds
+  Import took 0.018992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.724799 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow
+  artifactKey: Guid(1983f9309450145be91991ce391b568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow using Guid(1983f9309450145be91991ce391b568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff713622a9f452b3d9020652ee1db6d') in 0.004132 seconds
+  Import took 0.006424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.464944 seconds.
+  path: Assets/Simple Poeple/Prefabs/White
+  artifactKey: Guid(5390ded2409a346d084c91b2a8d4cd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White using Guid(5390ded2409a346d084c91b2a8d4cd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a735c17d318ade6d2a21d9887153132c') in 0.004370 seconds
+  Import took 0.007200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061893 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(d733e2b99968e4d19a078b8c1a80a407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Cap.prefab using Guid(d733e2b99968e4d19a078b8c1a80a407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c584b49a9f2d4bc4789695f18d1d914a') in 0.013805 seconds
+  Import took 0.016082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(c2213cc3021fc4b1b8edae62e1e7e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Shorthair.prefab using Guid(c2213cc3021fc4b1b8edae62e1e7e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28366602406b993b19c70b6eb36cd17f') in 0.014393 seconds
+  Import took 0.016285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(a86b7da86c9b34d85bf12c5ef43df688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Ponytail.prefab using Guid(a86b7da86c9b34d85bf12c5ef43df688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037afd5f1d06ae3831949ab288be80a3') in 0.015147 seconds
+  Import took 0.017340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(22cfe00965229429d86ab4f0c91491d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Girl_Longhair.prefab using Guid(22cfe00965229429d86ab4f0c91491d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d4d232b62aecacd56a626d7bf87471') in 0.013789 seconds
+  Import took 0.016144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(d9cbba91cf2744b84b701ee8fed3a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Knithat.prefab using Guid(d9cbba91cf2744b84b701ee8fed3a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c4439e5deee84f0f47dd5f9e1698a4') in 0.016608 seconds
+  Import took 0.018769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(2c7b6b0468fe74255b8c97649892e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/White/SimplePuppets_Boy_Hair.prefab using Guid(2c7b6b0468fe74255b8c97649892e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f9511d63f9ec9b342c443507c56e2e') in 0.015820 seconds
+  Import took 0.017841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.584632 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(f37205cdc87b748e5bf3ea99ae3031db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Cap.prefab using Guid(f37205cdc87b748e5bf3ea99ae3031db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ffcbd9298f0a12bdee3d303fc4bb31') in 0.013167 seconds
+  Import took 0.015099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(333b030abf2244d2cb8995e2dd32b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Shorthair.prefab using Guid(333b030abf2244d2cb8995e2dd32b826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1083ae22c382be298970eef8db16307e') in 0.012180 seconds
+  Import took 0.013964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(f2b70df20fada43ec9bf750ce5836e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Ponytail.prefab using Guid(f2b70df20fada43ec9bf750ce5836e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc7c268bfbbd13c5a21c34d103e05f3') in 0.015592 seconds
+  Import took 0.017410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(391f117a058284d38ac2875785831cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Girl_Longhair.prefab using Guid(391f117a058284d38ac2875785831cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c8d90066ee3e6facf6dfadf6b0cce7') in 0.013748 seconds
+  Import took 0.015642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(24b31fe00635240bdbaa5113606a065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Knithat.prefab using Guid(24b31fe00635240bdbaa5113606a065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d83fac8128a912c6f2d90a9b2f986c6') in 0.024016 seconds
+  Import took 0.025920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(c21b1c35fca5d4072ac65e116131adad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Yellow/SimplePuppets_Boy_Hair.prefab using Guid(c21b1c35fca5d4072ac65e116131adad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ab24ea79c8b5be8f79bf071c5ac70a') in 0.014792 seconds
+  Import took 0.017642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.089917 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red
+  artifactKey: Guid(6a109ac87c3114cb5af2d014b8a0f34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red using Guid(6a109ac87c3114cb5af2d014b8a0f34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e6dd889ea5e8ce986dd53b0dbceb6a') in 0.003727 seconds
+  Import took 0.005798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052651 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Cap.prefab
+  artifactKey: Guid(98bb6a8412ed34554b4a2f4b55a94243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Cap.prefab using Guid(98bb6a8412ed34554b4a2f4b55a94243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae001058c1c80ec4a9c79dd6152557e4') in 0.012198 seconds
+  Import took 0.014245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Knithat.prefab
+  artifactKey: Guid(05fd52f0abeb746c383c10dff0805597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Knithat.prefab using Guid(05fd52f0abeb746c383c10dff0805597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697ff13aeeba471b4220094506c67dd7') in 0.017303 seconds
+  Import took 0.019149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Longhair.prefab
+  artifactKey: Guid(0cb92eabef8f14b7fa88665d171606d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Longhair.prefab using Guid(0cb92eabef8f14b7fa88665d171606d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18698245a9a53ab3d739043dcb8f6b87') in 0.013242 seconds
+  Import took 0.015099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Hair.prefab
+  artifactKey: Guid(55667663e5c7f487d90782fe6f259439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Boy_Hair.prefab using Guid(55667663e5c7f487d90782fe6f259439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd0db1086d3640fa29d475806e19e60') in 0.012001 seconds
+  Import took 0.013805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Ponytail.prefab
+  artifactKey: Guid(d6e44c44a77864e8a81c49678ef490db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Ponytail.prefab using Guid(d6e44c44a77864e8a81c49678ef490db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961449b82135b7352fc15cb646eaa63') in 0.011952 seconds
+  Import took 0.013708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Shorthair.prefab
+  artifactKey: Guid(c04f745db7cea4f35986bc54d26afd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Prefabs/Red/SimplePuppets_Girl_Shorthair.prefab using Guid(c04f745db7cea4f35986bc54d26afd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61885dfe87b41b8094fd07615fbf8d0') in 0.012573 seconds
+  Import took 0.014437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.435680 seconds.
+  path: Assets/Simple Poeple/Materials/body1_black.mat
+  artifactKey: Guid(cb24c9c2774c247cab9b5cf122ada681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_black.mat using Guid(cb24c9c2774c247cab9b5cf122ada681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31f50074038599329f426bbed6cb8ce') in 0.052648 seconds
+  Import took 0.054745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Simple Poeple/Materials/body1_red.mat
+  artifactKey: Guid(79d72393f85db4bb39566c4fbe6a5de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_red.mat using Guid(79d72393f85db4bb39566c4fbe6a5de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b957cb56e1d3561af3510a7773a2dd21') in 0.010174 seconds
+  Import took 0.011936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple Poeple/Materials/body1_yellow.mat
+  artifactKey: Guid(9229798ef3ac04abd938c820a3ea9a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_yellow.mat using Guid(9229798ef3ac04abd938c820a3ea9a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e7e656cf5f3589ee6f5929c128683f') in 0.010969 seconds
+  Import took 0.012801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Simple Poeple/Materials/hair_blonde.mat
+  artifactKey: Guid(cfa35d66d7b8246c8815e403087a0da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/hair_blonde.mat using Guid(cfa35d66d7b8246c8815e403087a0da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52000d2df067fc0628dc1090ce6f1bf3') in 0.010625 seconds
+  Import took 0.012664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple Poeple/Materials/cap_black.mat
+  artifactKey: Guid(2a8429ef282d74714b098e4110540c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_black.mat using Guid(2a8429ef282d74714b098e4110540c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b98228d6fc7db672909a60786cef9a') in 0.012311 seconds
+  Import took 0.014261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Simple Poeple/Materials/cap_orange.mat
+  artifactKey: Guid(67c0e1f525a4f4b6f829d6310c0a39f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_orange.mat using Guid(67c0e1f525a4f4b6f829d6310c0a39f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4f0419c6f5cba83bc51b22f798b952') in 0.009987 seconds
+  Import took 0.011944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Simple Poeple/Materials/body1_blue.mat
+  artifactKey: Guid(7d20e8a1225d545d5a95fa7c9bbbb567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_blue.mat using Guid(7d20e8a1225d545d5a95fa7c9bbbb567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39464737b9103afe7ec86b30f2b80de1') in 0.011015 seconds
+  Import took 0.013114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Simple Poeple/Materials/body1_orange.mat
+  artifactKey: Guid(bc250f37b89894a99b54e40a374128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_orange.mat using Guid(bc250f37b89894a99b54e40a374128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67563ea75f3f1cf9f08409a960e503c3') in 0.010958 seconds
+  Import took 0.013041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple Poeple/Materials/body1_white.mat
+  artifactKey: Guid(339cb7f6d9e6f40eebe674f201bfaed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_white.mat using Guid(339cb7f6d9e6f40eebe674f201bfaed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7036831889fe34ff69b0fbe81638f1e') in 0.010800 seconds
+  Import took 0.012731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Simple Poeple/Materials/cap_brown.mat
+  artifactKey: Guid(29ace8edf92e84e8e970591a5f043f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_brown.mat using Guid(29ace8edf92e84e8e970591a5f043f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93555c27b227fef3af5b58856940eae4') in 0.010912 seconds
+  Import took 0.012764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple Poeple/Materials/cap_blue.mat
+  artifactKey: Guid(0461f03256f8245d5801035a125fcf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_blue.mat using Guid(0461f03256f8245d5801035a125fcf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35b903211d814896e977a7577352f2f') in 0.011948 seconds
+  Import took 0.013864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Simple Poeple/Materials/body2_purple.mat
+  artifactKey: Guid(dcc496dadad74413fa433bd99ccfb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_purple.mat using Guid(dcc496dadad74413fa433bd99ccfb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8558cf729ae7830b862e40a524fa8b25') in 0.010312 seconds
+  Import took 0.012448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Simple Poeple/Materials/body2_yellow.mat
+  artifactKey: Guid(a032385b51e444abba9cff07b29e710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_yellow.mat using Guid(a032385b51e444abba9cff07b29e710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60a7493d6fb4df89fc422d544eca751') in 0.010322 seconds
+  Import took 0.012452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Simple Poeple/Materials/cap_purple.mat
+  artifactKey: Guid(79d4f5f04cefc47caabfb55d627969a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_purple.mat using Guid(79d4f5f04cefc47caabfb55d627969a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77adebf4fa7897b515bb7e5b792c5d34') in 0.011439 seconds
+  Import took 0.013293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Simple Poeple/Materials/skin_brown.mat
+  artifactKey: Guid(149f2b1392cc444a9b02817b996a77bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/skin_brown.mat using Guid(149f2b1392cc444a9b02817b996a77bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb809e83d9874aa20dc7d38060664f32') in 0.010573 seconds
+  Import took 0.012349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Simple Poeple/Materials/body2_orange.mat
+  artifactKey: Guid(0dbd3d1855ab14814af8444fe96c32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_orange.mat using Guid(0dbd3d1855ab14814af8444fe96c32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94acd3a54626fb723b7f232d9027cc7c') in 0.013190 seconds
+  Import took 0.015770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Simple Poeple/Materials/hair_gray.mat
+  artifactKey: Guid(5073ac8acce0446dcb297007b5b85b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/hair_gray.mat using Guid(5073ac8acce0446dcb297007b5b85b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e826ed8ac96d52a973d8551bf8997d03') in 0.012093 seconds
+  Import took 0.013984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Simple Poeple/Materials/body2_green.mat
+  artifactKey: Guid(46f1fa1d7741947df8d1993e42843cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_green.mat using Guid(46f1fa1d7741947df8d1993e42843cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692882a6fd2a0ecb0cb0212d0caacb90') in 0.011624 seconds
+  Import took 0.013998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Simple Poeple/Materials/body2_blue.mat
+  artifactKey: Guid(203cd789231604d71862d4a1c6ab3d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_blue.mat using Guid(203cd789231604d71862d4a1c6ab3d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2993d59b63debefa2d592268f582669') in 0.012246 seconds
+  Import took 0.014758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Simple Poeple/Materials/body1_green.mat
+  artifactKey: Guid(3847cabec93d94255b1e1dffc4212a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_green.mat using Guid(3847cabec93d94255b1e1dffc4212a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca2c520531cc2e08e407105cbd610c3') in 0.010622 seconds
+  Import took 0.012780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Simple Poeple/Materials/cap_white.mat
+  artifactKey: Guid(9266568ec7c534491913e1a6a65f92dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_white.mat using Guid(9266568ec7c534491913e1a6a65f92dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d4c42278ee74b5c28dd22c335f3222') in 0.010920 seconds
+  Import took 0.013189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Simple Poeple/Materials/cap_yellow.mat
+  artifactKey: Guid(13e8d50fb5cc24effa4277f1931ac42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_yellow.mat using Guid(13e8d50fb5cc24effa4277f1931ac42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952cefacc1fd1617280f4909e2673510') in 0.010658 seconds
+  Import took 0.012651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Simple Poeple/Materials/hair_brown.mat
+  artifactKey: Guid(1669a6d370e9147718dea328d5b1cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/hair_brown.mat using Guid(1669a6d370e9147718dea328d5b1cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227f170c74c99f027f13ba145b74100d') in 0.041221 seconds
+  Import took 0.042967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Simple Poeple/Materials/hair_black.mat
+  artifactKey: Guid(f7999cbb6e84041bc8986b120e2b097c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/hair_black.mat using Guid(f7999cbb6e84041bc8986b120e2b097c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e75d753e37e777eb77b4a08b08af8e') in 0.010697 seconds
+  Import took 0.012584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simple Poeple/Materials/cap_red.mat
+  artifactKey: Guid(13831761c44364e9b87b94cd427bed4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_red.mat using Guid(13831761c44364e9b87b94cd427bed4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0388a27d09b5c3caff33e13f4291ec7') in 0.013610 seconds
+  Import took 0.015720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Simple Poeple/Materials/body2_red.mat
+  artifactKey: Guid(2eb8f76df8aa0472aa836647f84ca856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_red.mat using Guid(2eb8f76df8aa0472aa836647f84ca856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e18f3b3ebc98a7293b3855bebc6f3d') in 0.010836 seconds
+  Import took 0.012956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Simple Poeple/Materials/skin_white.mat
+  artifactKey: Guid(708d3ecded57b462897cccb81f7b1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/skin_white.mat using Guid(708d3ecded57b462897cccb81f7b1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d39192760b67776bc98bd8dad334b8b') in 0.012292 seconds
+  Import took 0.014191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Simple Poeple/Materials/body1_purple.mat
+  artifactKey: Guid(825417f8df75544daaea713b04761598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body1_purple.mat using Guid(825417f8df75544daaea713b04761598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd0646e8e2ee97b808a926ceed3a1a6') in 0.011302 seconds
+  Import took 0.013290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Simple Poeple/Materials/body2_white.mat
+  artifactKey: Guid(b9608c4bf9ddf4a03be7474473da2f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_white.mat using Guid(b9608c4bf9ddf4a03be7474473da2f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a91e442554035383fec5226c8d0bc1d') in 0.013171 seconds
+  Import took 0.015754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Simple Poeple/Materials/cap_gray.mat
+  artifactKey: Guid(ccda26dbacbba472e98e097c27c8cccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_gray.mat using Guid(ccda26dbacbba472e98e097c27c8cccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69af99cdbfbe567de26e170b4590e9c6') in 0.011597 seconds
+  Import took 0.013890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Simple Poeple/Materials/cap_green.mat
+  artifactKey: Guid(313ecb7ef8fc948ea9339a216f2f8641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/cap_green.mat using Guid(313ecb7ef8fc948ea9339a216f2f8641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc04441bc20eb38fbdcce8aaaf95b8c0') in 0.010369 seconds
+  Import took 0.013010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Simple Poeple/FBX/SimplePuppets.fbx
+  artifactKey: Guid(2b2413cbe13c4485ea178fe8b0922ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/FBX/SimplePuppets.fbx using Guid(2b2413cbe13c4485ea178fe8b0922ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b6212db7c26a8fb8e78059b1b0ce07') in 0.132401 seconds
+  Import took 0.134900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Simple Poeple/Materials/skin_yellow.mat
+  artifactKey: Guid(3e6771fd7e99344d08707dcc97ff0019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/skin_yellow.mat using Guid(3e6771fd7e99344d08707dcc97ff0019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9104f043594a3b21d463acd7fd5edb30') in 0.010732 seconds
+  Import took 0.012640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Simple Poeple/Materials/body2_black.mat
+  artifactKey: Guid(288ae6e9d083c4b90be0795f9dc5adb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Poeple/Materials/body2_black.mat using Guid(288ae6e9d083c4b90be0795f9dc5adb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e366c9ea28c33505d135d34639c1b688') in 0.015664 seconds
+  Import took 0.017973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.648007 seconds.
+  path: Assets/swords/prefabs
+  artifactKey: Guid(2adaa458491ab8143a482cb4344d0267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/swords/prefabs using Guid(2adaa458491ab8143a482cb4344d0267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '667d28e12c7e4b8d9e911462a1123965') in 0.004098 seconds
+  Import took 0.006627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087349 seconds.
+  path: Assets/swords/prefabs/claymore.prefab
+  artifactKey: Guid(217c7773b7f791347bb9cd7d97480c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/swords/prefabs/claymore.prefab using Guid(217c7773b7f791347bb9cd7d97480c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b09871c0110f217a0f11ed89db3a24') in 0.193717 seconds
+  Import took 0.195749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/swords/prefabs/short_sword.prefab
+  artifactKey: Guid(b0fc72bbf586d4749aae53ba87fdd093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/swords/prefabs/short_sword.prefab using Guid(b0fc72bbf586d4749aae53ba87fdd093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d2c1eb5fa8481f2184e052f8cb70e4') in 0.018273 seconds
+  Import took 0.020071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/swords/prefabs/katana.prefab
+  artifactKey: Guid(4f354ba23c3e35741885729ce4a3a3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/swords/prefabs/katana.prefab using Guid(4f354ba23c3e35741885729ce4a3a3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0cfe946488e1374fb8e15777b8669a') in 0.018800 seconds
+  Import took 0.020776 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
